@@ -1,0 +1,11 @@
+{
+  "name": "simple-table-react",
+  "version": "1.0.0",
+  "description": "Example of react and redux simple table connecting to database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
